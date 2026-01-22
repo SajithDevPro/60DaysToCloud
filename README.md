@@ -18,7 +18,13 @@ How to use:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) by Vishakha Sadhwani.  
-You are free to use, copy, modify, and distribute this code for personal or commercial purposes, as long as you include attribution to Vishakha Sadhwani and the license text.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+All original credit belongs to the author. Any modifications or additions in this fork reflect my personal learning and experimentation.
+
+**Author:** Vishakha Sadhwani  
+**Fork maintained by:** Sajith Nuwan
+
+
 
 
